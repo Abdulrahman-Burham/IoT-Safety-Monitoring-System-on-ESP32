@@ -69,7 +69,7 @@ Below is a screenshot of the Arabic web dashboard UI served by the ESP32:
 
 ## Credits
 
-- Developed by [Your Name] for a University IoT project.
+- Developed by Abdulrahman Burham for a University IoT project.
 
 ## License
 
