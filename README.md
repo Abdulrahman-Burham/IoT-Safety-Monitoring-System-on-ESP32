@@ -63,7 +63,7 @@ _Add your Fritzing/circuit image here (optional)._
 
 Below is a screenshot of the Arabic web dashboard UI served by the ESP32:
 
-![IoT Dashboard Screenshot](images/dashboard.png)
+![IoT Dashboard Screenshot](images/dashboard.png.jpg)
 ## Circuit Diagram
 
 Below is a diagram of ESP32:
