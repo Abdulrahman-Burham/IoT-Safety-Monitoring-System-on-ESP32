@@ -63,12 +63,12 @@ _Add your Fritzing/circuit image here (optional)._
 
 Below is a screenshot of the Arabic web dashboard UI served by the ESP32:
 
-![IoT Dashboard Screenshot](images/dashboard.png.jpg)
+![IoT Dashboard Screenshot](images/dashboard.png)
 ## Circuit Diagram
 
 Below is a diagram of ESP32:
 
-![Wiring Diagram](images/wiring-diagram.png)
+![Wiring Diagram](images/wiring-diagram.png.jpg)
 *The dashboard displays real-time sensor data and shows a red warning for unsafe conditions.*
 
 ## Credits
